@@ -29,6 +29,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
-        app:srcCompat="@drawable/ic_grid"/>
+        app:srcCompat="@drawable/ic_grid"
+        android:contentDescription="@string/change_grid_layout" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

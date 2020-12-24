@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerViewDemo2</string>
+    <string name="change_grid_layout">change grid layout</string>
 </resources>
